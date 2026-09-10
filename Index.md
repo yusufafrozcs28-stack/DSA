@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) - *Easy*
 - [Valid Mountain Array](./LeetCode/Easy/Valid%20Mountain%20Array) - *Easy*
 - [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) - *Easy*
 - [Binary Search](./LeetCode/Easy/Binary%20Search) - *Easy*
