@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Binary Search](./LeetCode/Easy/Binary%20Search) - *Easy*
 - [Count Binary Substrings](./LeetCode/Easy/Count%20Binary%20Substrings) - *Easy*
 - [Reverse Only Letters](./LeetCode/Easy/Reverse%20Only%20Letters) - *Easy*
 - [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) - *Easy*
