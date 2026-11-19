@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Remove Linked List Elements](./LeetCode/Easy/Remove%20Linked%20List%20Elements) - *Easy*
 - [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) - *Easy*
 - [Reverse Linked List](./LeetCode/Easy/Reverse%20Linked%20List) - *Easy*
 - [First Bad Version](./LeetCode/Easy/First%20Bad%20Version) - *Easy*
