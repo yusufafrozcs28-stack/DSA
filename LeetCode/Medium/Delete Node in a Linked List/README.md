@@ -9,7 +9,7 @@
 | **Tags** | Linked List |
 | **Link** | [View Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) |
 | **Runtime** | 0 ms |
-| **Memory** | 45.2 MB |
+| **Memory** | 44.8 MB |
 
 ## Problem Description
 
