@@ -22,3 +22,6 @@ All solved problems organized by pattern/category.
 - [Reverse String](./LeetCode/Easy/Reverse%20String) - *Easy*
 - [Rotate Image](./LeetCode/Medium/Rotate%20Image) - *Medium*
 - [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) - *Medium*
+
+## Linked List
+- [Linked List Cycle](./LeetCode/Easy/Linked%20List%20Cycle) - *Easy*
